@@ -1,0 +1,26 @@
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.csprojAssemblyReference.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.AssemblyInfoInputs.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.AssemblyInfo.cs
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.csproj.CoreCompileInputs.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/bin/Debug/netcoreapp3.1/Game_CE05.deps.json
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/bin/Debug/netcoreapp3.1/Game_CE05.runtimeconfig.json
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/bin/Debug/netcoreapp3.1/Game_CE05.runtimeconfig.dev.json
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/bin/Debug/netcoreapp3.1/Game_CE05.dll
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/bin/Debug/netcoreapp3.1/Game_CE05.pdb
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.dll
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.pdb
+/Users/aaronpeterson/Desktop/School Work/AD 2011/Game_CE05/Game_CE05/obj/Debug/netcoreapp3.1/Game_CE05.genruntimeconfig.cache
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\bin\Debug\netcoreapp3.1\Game_CE05.exe
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\bin\Debug\netcoreapp3.1\Game_CE05.deps.json
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\bin\Debug\netcoreapp3.1\Game_CE05.runtimeconfig.json
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\bin\Debug\netcoreapp3.1\Game_CE05.runtimeconfig.dev.json
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\bin\Debug\netcoreapp3.1\Game_CE05.dll
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\bin\Debug\netcoreapp3.1\Game_CE05.pdb
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.csproj.AssemblyReference.cache
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.AssemblyInfoInputs.cache
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.AssemblyInfo.cs
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.csproj.CoreCompileInputs.cache
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.dll
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.pdb
+E:\Personal\School Work\AD 2011\Game_CE05 5\Game_CE05\obj\Debug\netcoreapp3.1\Game_CE05.genruntimeconfig.cache
